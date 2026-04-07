@@ -150,4 +150,7 @@ This project is currently intended for **local development**.
 - Backend is not deployed to a public server
 - UI screenshots are provided for demonstration
 
+## Author
+
+[@abhiram289](https://github.com/abhiram289/)
 
