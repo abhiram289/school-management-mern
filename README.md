@@ -152,5 +152,5 @@ This project is currently intended for **local development**.
 
 ## Author
 
-[@abhiram289](https://github.com/abhiram289/)
+[abhiram289](https://github.com/abhiram289/)
 
